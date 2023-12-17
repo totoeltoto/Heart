@@ -24,7 +24,7 @@ body {
   height: 90px;
   background-color: #e2264d;
   border-radius: 50%;
-  position: absolutes;
+  position: absolute;
 }
 
 .heart::before {
